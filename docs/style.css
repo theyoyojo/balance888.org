@@ -26,24 +26,14 @@ img {
   height: 400 ;
 }
 
-.oval {
+a.donate {
 	border-radius: 50%;
 	border-color: blue;
 	font-size: 5em;
-}
-
-a:link.donate {
+	padding: auto;
+	margin: auto;
+	border-style: solid;
+	background: aquamarine;
 	text-decoration: none;
 }
 
-a:visited.donate {
-	text-decoration: none;
-}
-
-a:active.donate {
-	text-decoration: none;
-}
-
-a:hover.donate {
-	text-decoration: none;
-}

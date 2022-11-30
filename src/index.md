@@ -1,6 +1,6 @@
 # The Balance 888
 
-<p class="oval"> <a class="donate" href="https://thechesedfund.com/888/888-savinglives">DONATE</a></p>
+<p> <a class="donate" href="https://thechesedfund.com/888/888-savinglives">DONATE</a></p>
 
 
 ### Contact us
