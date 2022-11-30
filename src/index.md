@@ -5,8 +5,19 @@
 
 ### Contact us
 
-|Name|Email|
-|---|---|
-|Shlomo Mizrachi |<a href="mailto:shlomo@balance888.org">shlomo@balance888.org</a>|
-|Elior Danan |<a href="mailto:elior@balance888.org">elior@balance888.org</a>|
+
+<table>
+<tr>
+<th>Name</th>
+<th>Email</th>
+</tr>
+<tr>
+<td>Shlomo Mizrachi</td>
+<td><a href="mailto:shlomo@balance888.org">shlomo@balance888.org</a></td>
+</tr>
+<tr>
+<td>Elior Danan</td>
+<td><a href="mailto:elior@balance888.org">elior@balance888.org</a></td>
+</tr>
+</table>
 
