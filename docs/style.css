@@ -25,3 +25,25 @@ img {
   width: auto ;
   height: 400 ;
 }
+
+.oval {
+	border-radius: 50%;
+	border-color: blue;
+	font-size: 5em;
+}
+
+a:link.donate {
+	text-decoration: none;
+}
+
+a:visited.donate {
+	text-decoration: none;
+}
+
+a:active.donate {
+	text-decoration: none;
+}
+
+a:hover.donate {
+	text-decoration: none;
+}
